@@ -35,3 +35,6 @@ excute thies commands
   - /funcition reset_stage
 - commnad_block2
   - /function user_init
+
+# how to play
+https://www.youtube.com/watch?v=d0dzZ8F3DZ4
