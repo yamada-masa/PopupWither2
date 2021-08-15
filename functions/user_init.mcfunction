@@ -1,0 +1,9 @@
+give @a[c=1] netherite_sword 1
+give @a[c=1] bow 1
+give @a[c=1] enchanted_golden_apple 64
+give @a[c=1] skull 128 1 {"minecraft:can_place_on":{"blocks":["soul_sand"]}}
+give @a[c=1] netherite_helmet 1
+give @a[c=1] netherite_chestplate 1
+give @a[c=1] netherite_leggings 1
+give @a[c=1] netherite_boots 1
+give @a[c=1] arrow 64
