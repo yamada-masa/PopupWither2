@@ -5,7 +5,7 @@ Make new creative world
 - command block
 - cheat
 
-excute thies commands
+excute these commands
 ```
 /fill -50 3 -50 0 3 0 bedrock
 /fill 0 3 0 50 3 50 bedrock
