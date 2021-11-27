@@ -1,8 +1,6 @@
 fill 4 5 13 -5 7 22 air
 fill 4 6 13 -5 6 22 soul_sand
 scoreboard objectives add x dummy
-scoreboard players add @e[name=random] x 1
-scoreboard players reset @e[name=random] x
 scoreboard players random @e[name=random] x 1 100
 
 execute @e[name=random,scores={x=1}]  ~ ~ ~ fill -5 5 13 -5 5 13 soul_sand
